@@ -23,7 +23,7 @@ A final de mes se hará limpieza de los usuarios no validados, si no lo estás n
 
 **Si un usuario es expulsado por este motivo 3 veces será baneado de forma definitiva del grupo hasta que demuestre que se ha validado con el bot correctamente.**
 
-## 4. Apuntarse a una raid
+## 4. 🖐 Apuntarse a una raid
 Si te apuntas a una Raid, adquieres un compromiso con sus asistentes. Por lo tanto si te apuntas, es porque vas. Trata de ser consecuente y solidario sobre todo con las personas que se desplazan desde lejos para hacerla. 
 
 Si por el motivo que fuera te vieras en la necesidad de desapuntarte de una Raid, hazlo con un tiempo suficientemente prudencial para que el resto de asistentes pueda percatarse con antelación y comunícalo por el [grupo general](https://t.me/pokemonfuenla), para que en caso de ser pocos o justos asistentes, no se den el viaje en balde o se queden esperando a alguien que nunca llega.
