@@ -14,7 +14,7 @@ title: Normas
 
 6. **Evita las notas de voz**, sobretodo porque lo más probable es que pocos las escuchen y si tienes alguna duda o problema no será solucionado.
 
-7. **Este grupo NO es para raids**, se permite compartir capturas de pantalla de los huevos o jefes de incursión para verificar la hora de inicio y crear correctamente la raid en [@pokemonfuenlaraids](https://t.me/pokemonfuenlaraids). Las raids creadas en este grupo serán borradas directamente, así como las reenviadas desde el otro grupo.
+7. **Este grupo NO es para raids**, se permite compartir capturas de pantalla de los huevos o jefes de incursión para verificar la hora de inicio de la raid aprovechando el anuncio generado por Pikachu y crear correctamente la raid en [@pokemonfuenlaraids](https://t.me/pokemonfuenlaraids). Crear raids en este grupo usando el anuncio de Pikachu (o de cualquier otra forma) será sancionado con un *warn*, al igual que copiar raids del grupo de raids.
 
 8. Pokemon Go no deja de ser un juego. **Los administradores no podemos mediar en conflictos por gimnasios** y horas en la que te quitan de los mismos o cualquier otra circunstancia fuera de los grupos de Telegram. Se recomienda no abordar estos temas en el grupo puesto que pueden llevar a discusiones e infringir la primera regla.
 
