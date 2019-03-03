@@ -16,6 +16,7 @@ title: Guía rápida para usar a Serbal
     1. [Buscador de 100IV](#buscador-de-100iv)  
     2. [Tablas integradas](#tablas-integradas)  
     3. [Quién es… y Está aquí…](#quién-es-y-está-aquí)  
+    4. [Buscador de anclado](#buscador-de-anclado)
     
     
 # Registro
@@ -108,3 +109,10 @@ El bot dispone de una importante cantidad de "tablas" o infografías sobre el ju
 Los pongo juntos porque están muy relacionados. Con el comando `Quien es` o `/whois` puedes obtener información de un jugador como su nombre de entrenador, su color, nivel y el código de amigo si lo tiene registrado. Se puede usar de 2 formas, junto con el nombre de entrenador `Quien es mejorEntrenador`o respondiendo a un mensaje de la persona sobre la que quieras preguntar.
 
 Con el comando `Esta aqui NombreEntrenador` o `/ishere NombreEntrenador` podrás saber si el entrenador que buscas se encuentra en el grupo en el que estás preguntando y le mencionará para que os podáis poner en contacto por privado (muy útil por ejemplo para acordar subidas de amistad, por ejemplo).
+
+### Buscador de anclado
+A veces ocurre que el mensaje anclado "*desaparece*" para algunos usuarios. Si alguna vez te ocurre y necesitas consultarlo solo tienes que poner en el grupo:
+~~~
+Serbal, anclado
+~~~
+Y te responderá citando el último mensaje anclado que conozca.
