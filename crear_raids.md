@@ -31,9 +31,11 @@ Estos son los métodos disponibles para crear raids en este grupo, si tienes cua
 
 ### Con captura de pantalla
 Este método es bastante sencillo pero depende mucho de que el bot reconozca correctamente los datos de la captura. Si falla, deberás editarla de forma manual después. 
-Para usar este método debes enviar al grupo una captura de pantalla (no una foto al móvil) como la que se ve a continuación **que esté recién hecha**, si se deja pasar tiempo antes de enviar la captura, el bot detectará mal la hora de inicio y la raid estará mal (además supondrá un aviso o *warn* para el usuario que envió la captura).
+Para usar este método debes enviar al grupo una captura de pantalla (no una foto al móvil) como la que se ve a continuación **que esté recién hecha**, si se deja pasar tiempo antes de enviar la captura, el bot detectará mal la hora de inicio y la raid estará mal (además supondrá un aviso o *warn* para el usuario que envió la captura).  
+![captura_huevo.png](images/captura_huevo.png)
 
 Si el bot reconoce los datos correctamente creará un "anuncio" de la incursión, a partir del cual se puede crear la raid pulsando en el botón "*Organizar incursión*" y seleccionando la hora adecuada según las normas de siempre (20 minutos tras la eclosión).
+![anuncio-1.png](images/anuncio-1.png)![anuncio-2.png](images/anuncio-2.png)![anuncio-3.png](images/anuncio-3.png)
 
 ### Con comando
 Este método es más "artesanal" pero es más difícil cometer errores una vez se sabe utilizar. Solo hay que escribir en el grupo el siguiente comando sustituyendo las palabras en mayúsculas por los datos adecuados:
@@ -57,10 +59,11 @@ Para editar una raid solo hay que *responder* al mensaje de Pikachu con la raid 
 ### Responder a un mensaje
 Para poder responder a un mensaje hay 3 formas de hacerlo:
 - Deslizar el mensaje hacia la izquierda.
-
+![reply-1.png](images/reply-1.png)
 - Pulsar una vez en el mensaje y elegir "Editar" en el menú.
-
+![reply-2.png](images/reply-2.png)
 - Mantener pulsado en el mensaje hasta que aparezcan estos iconos en la parte de arriba.
+![reply-3.png](images/reply-3.png)
 
 ### Reflotar
 Reflotar permite "bajar" una raid al final del chat para que aparezca como un mensaje nuevo y sea más visible. Solo debe ser usado cuando haya 2 o más legendarios y se haya modificado el pokemon que ha salido del huevo, para que se vea el cambio. Si no es el caso el usuario que reflote la incursión puede recibir un aviso o *warn*.
