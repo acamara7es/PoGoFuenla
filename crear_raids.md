@@ -35,7 +35,7 @@ Para usar este método debes enviar al grupo una captura de pantalla (no una fot
 ![captura_huevo.png](images/captura_huevo.png)
 
 Si el bot reconoce los datos correctamente creará un "anuncio" de la incursión, a partir del cual se puede crear la raid pulsando en el botón "*Organizar incursión*" y seleccionando la hora adecuada según las normas de siempre (20 minutos tras la eclosión).
-![anuncio-1.png](images/anuncio-1.png)![anuncio-2.png](images/anuncio-2.png)![anuncio-3.png](images/anuncio-3.png)
+![anuncio-1.png](images/anuncio-1.png) ![anuncio-2.png](images/anuncio-2.png) ![anuncio-3.png](images/anuncio-3.png)
 
 ### Con comando
 Este método es más "artesanal" pero es más difícil cometer errores una vez se sabe utilizar. Solo hay que escribir en el grupo el siguiente comando sustituyendo las palabras en mayúsculas por los datos adecuados:
@@ -58,11 +58,11 @@ Para editar una raid solo hay que *responder* al mensaje de Pikachu con la raid 
 
 ### Responder a un mensaje
 Para poder responder a un mensaje hay 3 formas de hacerlo:
-- Deslizar el mensaje hacia la izquierda.
+- Deslizar el mensaje hacia la izquierda.  
 ![reply-1.png](images/reply-1.png)
-- Pulsar una vez en el mensaje y elegir "Editar" en el menú.
+- Pulsar una vez en el mensaje y elegir "Editar" en el menú.  
 ![reply-2.png](images/reply-2.png)
-- Mantener pulsado en el mensaje hasta que aparezcan estos iconos en la parte de arriba.
+- Mantener pulsado en el mensaje hasta que aparezcan estos iconos en la parte de arriba.  
 ![reply-3.png](images/reply-3.png)
 
 ### Reflotar
