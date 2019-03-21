@@ -19,9 +19,8 @@ Cualquiera que esté registrado con el bot Detective Pikachu puede organizar una
 
 4. **Existen 2 gimnasios que se llaman exactamente igual** ("*Arte Urbana*"). Si usas una captura de pantalla para crear la raid debes tener en cuenta que luego tendrás que editar el nombre del gimnasio para especificar cuál es poniéndolo como se indica a continuación. De la misma forma, si estás creando la raid con el comando `/raid` debes usar los siguientes nombres para distinguirlos en lugar de "*Arte Urbana*":
 
-- Al que se encuentra en la Calle Móstoles, muy cerca del gimnasio "*Quijote y Sancho*" se le llama "**Abastos**".
-
-- Al que se encuentra en la Calle del Olivar se le conoce como "**Bodegas Pinto**".
+    - Al que se encuentra en la Calle Móstoles, muy cerca del gimnasio "*Quijote y Sancho*" se le llama "**Abastos**".
+    - Al que se encuentra en la Calle del Olivar se le conoce como "**Bodegas Pinto**".
 
 5. **Para las incursiones de nivel 4**, es necesario saber cuál es el jefe de incursión antes de crear la raid, por lo que **hay que esperar a que se abra el huevo**. Sin embargo, se puede avisar antes por el [grupo de charla](https://t.me/pokemonfuenla) por si hay alguien interesado.
 
