@@ -10,9 +10,7 @@ Los únicos mensajes permitidos son para preguntar quién falta o cuánto le que
 Si no conoces la ubicación de un gimnasio pulsa en el enlace del nombre del gym en la raid y pikachu te la mandará por privado si estás validado, si no pregunta en el [grupo general](https://t.me/pokemonfuenla).
 
 ## 2. Nada de multimedia.
-Para que los mensajes de las incursiones permanezcan visibles no se permite el envío de ningún tipo de contenido multimedia (audios, fotos, capturas de pantalla, vídeos, stickers, etc).
-
-Tampoco se permite el uso de capturas para crear incursiones, para ver cómo se hace sigue leyendo.
+Para que los mensajes de las incursiones permanezcan visibles no se permite el envío de ningún tipo de contenido multimedia (audios, fotos, vídeos, stickers, etc) excepto capturas de pantalla de huevos de incursión con el objetivo de [crear la raid](https://acamara7es.github.io/PoGoFuenla/crear_raids#con-captura-de-pantalla) correspondiente, que serán borradas automáticamente por el bot Detective Pikachu.  
 
 ## 3. ✅ Validación requerida.
 Para poder crear raids o apuntarte en las que estén creadas en este grupo, debes estar validado con @detectivepikachubot. Para ello abre chat en privado con él y escribe /register, te indicará lo que debes hacer.
@@ -54,7 +52,7 @@ Hay veces (bastantes) que, con raids que suelen estar cerca, se coordinan (por e
 **En caso de apuntarse, HAY QUE SEGUIR LAS NORMAS**, independientemente de el tiempo que le quede al huevo suerte.
 
 ## 8. ⚖ Sanciones
-De no llevar a cabo estas normas, la sanción conlleva desde un aviso (varios avisos conllevarán una consecuencia más grave) hasta la expulsión temporal (mínimo 24 horas) o permanente dependiendo de la gravedad de lo acontecido.
+De no seguir estas normas, la sanción puede ir desde un aviso (3 avisos suponen la expulsión del grupo durante 48 horas) hasta la expulsión temporal o permanente dependiendo de la gravedad de lo acontecido.
 
 
 > El no haber leído las normas no te exime de tener que seguirlas. Si las incumples atente a las consecuencias. 
