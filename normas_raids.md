@@ -52,7 +52,7 @@ Hay veces (bastantes) que, con raids que suelen estar cerca, se coordinan (por e
 **En caso de apuntarse, HAY QUE SEGUIR LAS NORMAS**, independientemente de el tiempo que le quede al huevo suerte.
 
 ## 8. ⚖ Sanciones
-De no seguir estas normas, la sanción puede ir desde un aviso (3 avisos suponen la expulsión del grupo durante 48 horas) hasta la expulsión temporal o permanente dependiendo de la gravedad de lo acontecido.
+De no seguir estas normas, la sanción puede ir desde un aviso (**3 avisos suponen la expulsión del grupo durante 48 horas**) hasta la expulsión temporal o permanente dependiendo de la gravedad de lo acontecido.
 
 
 > El no haber leído las normas no te exime de tener que seguirlas. Si las incumples atente a las consecuencias. 
