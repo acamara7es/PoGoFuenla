@@ -60,7 +60,7 @@ Para editar una raid solo hay que *responder* al mensaje de Pikachu con la raid 
 Para poder responder a un mensaje hay 3 formas de hacerlo:
 - Deslizar el mensaje hacia la izquierda.  
 ![reply-1.png](images/reply-1.png)
-- Pulsar una vez en el mensaje y elegir "Editar" en el menú.  
+- Pulsar una vez en el mensaje y elegir "Responder" en el menú.  
 ![reply-2.png](images/reply-2.png)
 - Mantener pulsado en el mensaje hasta que aparezcan estos iconos en la parte de arriba.  
 ![reply-3.png](images/reply-3.png)
