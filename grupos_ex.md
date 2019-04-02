@@ -7,7 +7,8 @@ title: Lista de grupos para incursiones EX
 <p>Al entrar al grupo deberías encontrar una raid en el mensaje anclado para apuntarte. Si no es así envía una captura de pantalla del pase ex al grupo para crearla.</p>
 <p>Si sabes de antemano que vas a tener algún problema llegar a tiempo a la incursión avisa cuanto antes para intentar buscar una solución lo antes posible, no esperes a última hora porque será más difícil.</p>
   <div class="row">
-		{% for gym in site.gyms %}
+	{% assign sorted = (site.gyms | sort: 'name') %}
+	{% for gym in site.gyms %}
     <div class="col-6 col-sm-6 col-md-4 col-lg-3">
       <a href="{{gym.group}}">
         <img src="{{gym.image}}" class="rounded-circle mx-auto d-block">
