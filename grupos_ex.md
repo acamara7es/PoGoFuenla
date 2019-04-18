@@ -3,6 +3,7 @@ title: Lista de grupos para incursiones EX
 ---
 
 <div class="container-fluid">
+	<div></div>
 <p>Estos grupos son para poder organizarse mejor en las incursiones EX, por tanto pedimos entrar solo en los grupos para los que tengas pase EX, una vez dentro hablar sobre la organización de la incursión (segundas rondas, retrasos, etc) y al acabar la incursión (no antes) salir de los mismos.</p>
 <p>Al entrar al grupo deberías encontrar una raid en el mensaje anclado para apuntarte. Si no es así envía una captura de pantalla del pase ex al grupo para crearla.</p>
 <p>Si sabes de antemano que vas a tener algún problema llegar a tiempo a la incursión avisa cuanto antes para intentar buscar una solución lo antes posible, no esperes a última hora porque será más difícil.</p>
