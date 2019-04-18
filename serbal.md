@@ -10,7 +10,8 @@ title: Guía rápida para usar a Serbal
     3. [Pedir nidos](#pedir-nidos)  
 3. [Códigos de amigo](#códigos-de-amigo)  
     1. [Registrar código de amigo](#registrar-código-de-amigo)  
-    2. [Lista de códigos de amigo](#lista-de-códigos-de-amigo)  
+    2. [Agregar el código a la lista del grupo](#agregar-el-código-a-la-lista-del-grupo)
+    3. [Lista de códigos de amigo](#lista-de-códigos-de-amigo)  
 4. [Llamar a los administradores](#Llamar-a-los-administradores)  
 5. [Otras funciones](#otras-funciones)  
     1. [Buscador de 100IV](#buscador-de-100iv)  
@@ -78,8 +79,10 @@ Lo primero que debes hacer es registrar tu código de amigo en el bot, para ello
 1. Compartir con Serbal directamente el mensaje de "*¡Comencemos una buena amistad...*"
 2. Con el comando `/setfc` seguido de los 12 números del código (sin espacios).
 
+### Agregar el código a la lista del grupo
+Una vez que Serbal conozca tu código de amigo, si quieres incluirlo en la lista de amigos del grupo debes escribir **en el grupo** `/regfc`.
+
 ### Lista de códigos de amigo
-Una vez que Serbal conozca tu código de amigo, si quieres incluirlo en la lista de amigos del grupo debes escribir en el mismo grupo `/regfc`.
 Para pedir la lista de códigos de amigo del grupo usa el comando `/listfc`. Recuerda que solo te mostrará aquellos que hayan seguido los pasos anteriores, no el de todos los miembros.
 
 # Llamar a los administradores
