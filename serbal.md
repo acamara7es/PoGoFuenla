@@ -2,8 +2,8 @@
 title: Guía rápida para usar a Serbal
 ---
 1. [Registro](#registro)  
-    1. [Sin Detective Pikachu](#sin-detective-pikachu)  
-    2. [Con Detective Pikachu](#con-detective-pikachu)  
+    1. [Primer registro](#primer-registro)  
+    2. [Cambios en los datos de la cuenta](#cambios-en-los-datos-de-la-cuenta)  
 2. [Nidos](#nidos)  
     1. [Registrar nidos](#registrar-nidos)  
     2. [Borrar nidos](#borrar-nidos)  
@@ -21,24 +21,14 @@ title: Guía rápida para usar a Serbal
     
     
 # Registro
-Lo primero que necesitas saber es como registrarte con Serbal para poder usar el resto de sus funciones. Si ya estás registrado con el Detective Pikachu apenas vas a tardar 30 segundos en hacerlo (recomendado).
-En cualquier caso lo primero es abrir **chat privado** con el bot del [Profesor Serbal](https://t.me/profserbalbot) y decirle `/register`, ahora tenemos 2 posibilidades:
+### Primer Registro
+Como el proceso de validación es algo que usualmente se hace una sola vez por cuenta la guía de validación está en [este enlace](https://acamara7es.github.io/PoGoFuenla/registro)
 
-### Sin Detective Pikachu
-Te irá pidiendo sucesivamente tu **nombre en el juego**, tu **nivel** y tu **color**. Una vez hecho necesitarás validar estos datos con el comando `/validate` (o `Quiero validarme`), entonces Serbal te pedirá una captura con unos requisitos. Una vez enviada y revisada por los administradores del bot estarás validado correctamente.
-
-### Con Detective Pikachu
-En cuanto le pongas el `/register` Serbal detectará que ya estás registrado con Detective Pikachu y te preguntará si quieres que importe los datos que tiene Pikachu sobre ti.
-![registro_1.jpg](images/registro_1.jpg)
-
-Si le respondes *Cancelar* iniciarás el proceso de registro tal y como se describe en el apartado *Sin Detective Pikachu*, pero si le respondes *Importar* te dirá que tienes que darle permiso para acceder a los datos del Detective Pikachu (si no lo tiene ya).
-![registro_2.jpg](images/registro_2.jpg)
-
-Ahora has recibido un mensaje en el chat privado con Detective Pikachu para autorizar a Serbal a acceder a los datos. Pulsa en **Aceptar**
-![registro_3.jpg](images/registro_3.jpg)
-
-Por último una vez aceptado el traspaso de información de Pikachu a Serbal tienes que volver a escribir de nuevo `/register` en el chat con Serbal para completar el proceso.
-![registro_4.jpg](images/registro_4.jpg)
+### Cambios en los datos de la cuenta
+Todos los cambios en los datos de tu registro deben hacerse a través del chat **PRIVADO** con el bot [@profSerbalBot](https://t.me/profserbalbot).
+-  **Cambio de nivel:** El más habitual, para actualizar tu nivel tienes que decirle al bot "*Soy nivel XX*", asegúrate de que le dices tu nivel correcto, si te pones alguno más alto y te piden captura del perfil para comprobarlo te pueden banear el registro del bot.
+-  **Cambio de nombre:** Si has cambiado tu nombre de entrenador debes volver a validarte, para ello usa el comando "`/newnick`" y sigue las instrucciones.
+-  **Cambio de color:** Para cambiar el color de tu cuenta si has utilizado el Medallón de equipos usa el comando "`/newteam`" y sigue las instrucciones.
 
 
 # Nidos
