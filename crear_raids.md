@@ -52,13 +52,11 @@ Ya sea por un error al crearla o porque haya varios legendarios disponibles, en 
 Para editar una raid solo hay que *responder* al mensaje de Pikachu con la raid y usar el comando correspondiente a cada dato (Pikachu te envía la lista de los comandos disponibles por privado al crear la raid).
 
 ### Responder a un mensaje
-Para poder responder a un mensaje hay 3 formas de hacerlo:
+Para poder responder a un mensaje hay 2 formas de hacerlo:
 - Deslizar el mensaje hacia la izquierda.  
 ![reply-1.png](images/reply-1.png)
 - Pulsar una vez en el mensaje y elegir "Responder" en el menú.  
 ![reply-2.png](images/reply-2.png)
-- Mantener pulsado en el mensaje hasta que aparezcan estos iconos en la parte de arriba.  
-![reply-3.png](images/reply-3.png)
 
 ### Reflotar
 Reflotar permite "bajar" una raid al final del chat para que aparezca como un mensaje nuevo y sea más visible. Solo debe ser usado cuando haya 2 o más legendarios y se haya modificado el pokemon que ha salido del huevo, para que se vea el cambio. Si no es el caso, el usuario que reflote la incursión puede recibir un aviso o *warn*.
