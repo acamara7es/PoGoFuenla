@@ -24,7 +24,7 @@ Estos son los métodos disponibles para crear raids en este grupo, si tienes cua
 
 ### Con captura de pantalla
 Este método es bastante sencillo pero depende mucho de que el bot reconozca correctamente los datos de la captura. Si falla, deberás editarla de forma manual después. 
-Para usar este método debes enviar al grupo una captura de pantalla (no una foto al móvil) como la que se ve a continuación **que esté recién hecha**, si se deja pasar tiempo antes de enviar la captura, el bot detectará mal la hora de inicio y la raid estará mal (además supondrá un aviso o *warn* para el usuario que envió la captura).  
+Para usar este método debes enviar al grupo una captura de pantalla (no una foto al móvil) como la que se ve a continuación **que esté recién hecha**, si se deja pasar tiempo antes de enviar la captura, el bot detectará mal la hora de inicio y la raid estará mal (además supondrá un aviso o *warn* para el usuario que envió la captura). Sin embargo en ocasiones será inevitable que la hora de inicio de la raid en el juego y la que indica el bot se diferencien en 1 minutos, es normal y no será sancionable en este caso. 
 ![captura_huevo.png](images/captura_huevo.png)
 
 Si el bot reconoce los datos correctamente creará un "anuncio" de la incursión, a partir del cual se puede crear la raid pulsando en el botón "*Organizar incursión*" y seleccionando la hora adecuada según las normas comentadas [más arriba](#Requisitos-para-crear-una-raid).
