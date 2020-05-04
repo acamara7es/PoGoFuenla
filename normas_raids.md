@@ -5,15 +5,15 @@ title: Normas
 ## 1. 🔇 No se permite hablar.
 Este grupo es única y exclusivamente para las incursiones. 
 
-Los únicos mensajes permitidos son para preguntar quién falta o cuánto le queda a alguna persona rezagada o que no se ha confirmado en una raid en **UN SOLO MENSAJE**. Para hablar y preguntar está el grupo general [@PokemonFuenla](https://t.me/pokemonfuenla).
+Los únicos mensajes permitidos son para preguntar quién falta o cuánto le queda a alguna persona rezagada o que no se ha confirmado en una raid en **UN SOLO MENSAJE**. Para hablar y preguntar está el grupo de charla.
 
-Si no conoces la ubicación de un gimnasio pulsa en el enlace del nombre del gym en la raid y pikachu te la mandará por privado si estás validado, si no pregunta en el [grupo general](https://t.me/pokemonfuenla).
+Si no conoces la ubicación de un gimnasio pulsa en el enlace del nombre del gym en la raid y pikachu te la mandará por privado si estás validado, si no pregunta en el grupo de charla.
 
 ## 2. Nada de multimedia.
 Para que los mensajes de las incursiones permanezcan visibles no se permite el envío de ningún tipo de contenido multimedia (audios, fotos, vídeos, stickers, etc) excepto capturas de pantalla de huevos de incursión con el objetivo de [crear la raid](https://acamara7es.github.io/PoGoFuenla/crear_raids#con-captura-de-pantalla) correspondiente, que serán borradas automáticamente por el bot Detective Pikachu.  
 
 ## 3. ✅ Validación requerida.
-Para poder crear raids o apuntarte en las que estén creadas en este grupo, debes estar validado con @detectivepikachubot. Para ello abre chat en privado con él y escribe /register, te indicará lo que debes hacer.
+Para poder crear raids o apuntarte en las que estén creadas en este grupo, debes estar validado con @detectivepikachubot. Para ello abre chat en privado con él y escribe `/register`, te indicará lo que debes hacer.
 
 Una vez registrado, para actualizar el nivel solo tienes que mandarle al bot una captura de tu perfil por privado (da igual el compañero y el nombre que tenga).
 
