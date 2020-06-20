@@ -42,6 +42,7 @@ Ejemplo de un huevo de Lugia que abre a las 20:14 en el gym Fuente Los Patos:
 ~~~
 /raid Lugia 20:34 Fuente Los Patos
 ~~~
+
 # Modificar una raid
 ### Ediciones
 Ya sea por un error al crearla o porque haya varios legendarios disponibles, en ocasiones es necesario editar algún dato de las raids. Sin embargo, solo pueden hacerlo el creador de la raid y los administradores. Si no es tu caso y ves que hay algo mal en alguna raid avisa en el grupo de charla indicando el error y aportando una captura de pantalla a ser posible para corregirlo cuanto antes.
