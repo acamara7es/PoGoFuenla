@@ -31,7 +31,7 @@ Una vez hecho esto hay que darle a "**Activar notificaciones personalizadas**" y
 Lo primero es lo primero, la gente que va como presencial debe actuar como se ha hecho siempre de acuerdo con las normas: Acércate al gym con el grupo (aunque vivas justo encima), cuando llegues usa el bot para indicarlo pulsando en "**✅Estoy**" en el mensaje de la raid (importante para que tanto remotos como presenciales sepan que ya están todos) y esperad al menos 5 minutos si falta gente. 
 
 ## 2. Enviar el código
-Lo más práctico es hacerlo entre 2 personas (si las hay). Una de ellas crea el grupo privado en el juego y la otra tiene preparado el Telegram tal que así:
+Lo más práctico es hacerlo entre 2 personas (si las hay). Una de ellas crea el grupo privado en el juego y la otra tiene preparado el Telegram con el mensaje de la raid en el grupo citado (Pulsa en el mensaje y dale a "_Responder_" o desliza el mensaje hacia la izquierda) y el comando `/rmsg` puesto, más o menos así:
 
 ![codigo.jpg](images/codigo.jpg)
 
