@@ -31,11 +31,11 @@ Una vez hecho esto hay que darle a "**Activar notificaciones personalizadas**" y
 Lo primero es lo primero, la gente que va como presencial debe actuar como se ha hecho siempre de acuerdo con las normas: Acércate al gym con el grupo (aunque vivas justo encima), cuando llegues usa el bot para indicarlo pulsando en "**✅Estoy**" en el mensaje de la raid (importante para que tanto remotos como presenciales sepan que ya están todos) y esperad al menos 5 minutos si falta gente. 
 
 ## 2. Enviar el código
-Lo más práctico es hacerlo entre 2 personas (si las hay). Una de ellas crea el grupo privado en el juego y la otra tiene preparado el Telegram con el mensaje de la raid en el grupo [citado](crear_raids#responder-a-un-mensaje) (Pulsa en el mensaje y dale a "_Responder_" o desliza el mensaje hacia la izquierda) y el comando `/rmsg` puesto, más o menos así:
+Lo más práctico es hacerlo entre 2 personas (si las hay). Una de ellas crea el grupo privado en el juego y la otra tiene preparado el Telegram con el mensaje de la raid en el grupo [citado](crear_raids#responder-a-un-mensaje) (Pulsa en el mensaje y dale a "_Responder_" o desliza el mensaje hacia la izquierda) y el comando `/rmsg` puesto, más o menos así para que sea más rápido escribir el código:
 
 ![codigo.jpg](images/codigo.jpg)
 
-En cuanto se crea el código se escribe con el comando en el grupo y se envía a los remotos para que tengan el máximo tiempo posible para entrar. Si todo va bien el que manda el mensaje debería recibir 2 mensajes del bot: Uno con una copia del mensaje enviado y otro con la lista de usuarios a los que se lo ha enviado.
+En cuanto se crea el código se escribe con el comando en el grupo y se envía a los remotos para que tengan el máximo tiempo posible para entrar. Ejemplo: `/rmsg pikachu pikachu pikachu`. Si todo va bien el que manda el mensaje debería recibir 2 mensajes del bot: Uno con una copia del mensaje enviado y otro con la lista de usuarios a los que se lo ha enviado.
 
 ## 3. Posibles problemas
 - **Pikachu dice que "_No ha podido enviar el mensaje por privado a xxx_"**
