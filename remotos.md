@@ -25,6 +25,11 @@ Una vez hecho esto hay que darle a "**Activar notificaciones personalizadas**" y
 
 ![notificacion2.jpg](images/notificacion2.jpg)
 
+## 3. Prepárate para la incursión.
+A la hora prevista para la incursión debes estar preparado para entrar. **El código te puede llegar en cualquier momento** pero ten en cuenta que puede tardar unos minutos debido a los minutos de cortesía para la gente que llegue tarde a la incursión de forma presencial. Una vez enviado el código **tendrás menos de 2 minutos para entrar** así que no te despistes. 
+
+Es altamente recomendable **tener un equipo preparado con los pokemon que vayas a usar en el combate**, así aunque entres con poco tiempo podrás ayudar haciendo daño en la raid. Para ver los mejores pokemon para enfrentarse al jefe de incursión pulsa en el nombre del pokemon en el mensaje de la raid en el grupo.
+
 # Guía para presenciales
 
 ## 1. Recordatorios básicos
