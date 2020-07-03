@@ -19,7 +19,7 @@ Cualquiera que esté registrado con el bot Detective Pikachu puede organizar una
 
 4. **Para las incursiones de nivel 4**, es necesario saber cuál es el jefe de incursión antes de crear la raid, por lo que **hay que esperar a que se abra el huevo**. Sin embargo, se puede avisar antes por el grupo de charla por si hay alguien interesado.
 
-5. **Para las incursiones de nivel 5**, se podrá crear la raid antes de que se abra el huevo teniendo en cuenta que **si hay 2 o más legendarios disponibles**, al usar el comando hay que poner como pokemon "*n5*" y cuando se abra el huevo editar la raid para poner el pokemon y reflotarla (ver apartado [Modificar una raid](#modificar-una-raid)).
+5. **Para las incursiones de nivel 5**, se podrá crear la raid antes de que se abra el huevo teniendo en cuenta que **si hay 2 o más legendarios disponibles**, al usar el comando hay que poner como pokemon "*n5*" y cuando se abra el huevo editar la raid para poner el pokemon (ver apartado [Modificar una raid](#modificar-una-raid)).
 
 # Métodos para crear una raid
 Estos son los métodos disponibles para crear raids en este grupo, si tienes cualquier duda o problema al crear la raid pregunta en el grupo de charla y alguien te ayudará, pero no dejes la raid con errores ya que puedes perjudicar a otros jugadores.
