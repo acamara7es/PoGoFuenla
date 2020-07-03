@@ -11,13 +11,15 @@ title: GUÍA PARA CREAR RAIDS
 # Requisitos para crear una raid
 Cualquiera que esté registrado con el bot Detective Pikachu puede organizar una raid siempre que siga las siguientes indicaciones:
 
-1. En este grupo **solo se permiten raids de niveles 5**. Las de nivel 4 se organizarán a través del grupo de charla y para las de nivel inferior hay otro grupo al que puedes acceder desde el grupo de charla.
+1. En este grupo **solo se permiten raids de niveles 4 y 5**. Para las de nivel inferior hay otro grupo al que puedes acceder desde el grupo de charla.
 
 2. Muy importante, **revisa que no se haya creado ya la raid que quieres poner**, es importante evitar que las raids se repitan para mantener el orden y saber realmente cuántos hay apuntados en cada raid.
 
-3. La hora a la que se organice la raid debe ser siempre **la misma de la eclosión del huevo** (Con excepción de lo que se indica en el punto 4). No hay que redondear, si el huevo abre a las 12:02 la raid debe ponerse a las 12:02.
+3. La hora a la que se organice la raid debe ser siempre **20 minutos después de la eclosión del huevo**. No hay que redondear, si el huevo abre a las 12:02 la raid debe ponerse a las 12:22.
 
-4. **Si hay 2 o más legendarios disponibles**, la hora de ataque será 20 minutos después de abrir el huevo. Al usar el comando para crear la raid hay que poner como pokemon "*n5*" y cuando se abra el huevo editar la raid para indicar el pokemon (ver apartado [Modificar una raid](#modificar-una-raid)).
+4. **Para las incursiones de nivel 4**, es necesario saber cuál es el jefe de incursión antes de crear la raid, por lo que **hay que esperar a que se abra el huevo**. Sin embargo, se puede avisar antes por el grupo de charla por si hay alguien interesado.
+
+5. **Para las incursiones de nivel 5**, se podrá crear la raid antes de que se abra el huevo teniendo en cuenta que **si hay 2 o más legendarios disponibles**, al usar el comando hay que poner como pokemon "*n5*" y cuando se abra el huevo editar la raid para poner el pokemon y reflotarla (ver apartado [Modificar una raid](#modificar-una-raid)).
 
 # Métodos para crear una raid
 Estos son los métodos disponibles para crear raids en este grupo, si tienes cualquier duda o problema al crear la raid pregunta en el grupo de charla y alguien te ayudará, pero no dejes la raid con errores ya que puedes perjudicar a otros jugadores.
@@ -27,7 +29,7 @@ Este método es bastante sencillo pero depende mucho de que el bot reconozca cor
 Para usar este método debes enviar al grupo una captura de pantalla (no una foto al móvil) como la que se ve a continuación **que esté recién hecha**, si se deja pasar tiempo antes de enviar la captura, el bot detectará mal la hora de inicio y la raid estará mal (además supondrá un aviso o *warn* para el usuario que envió la captura). Sin embargo en ocasiones será inevitable que la hora de inicio de la raid en el juego y la que indica el bot se diferencien en 1 minuto, es normal y no será sancionable en este caso. 
 ![captura_huevo.png](images/captura_huevo.png)
 
-Si el bot reconoce los datos correctamente creará un "anuncio" de la incursión, a partir del cual se puede crear la raid pulsando en el botón "*Organizar incursión*" y seleccionando la hora adecuada según las normas comentadas [más arriba](#Requisitos-para-crear-una-raid).
+Si el bot reconoce los datos correctamente creará un "anuncio" de la incursión, a partir del cual se puede crear la raid pulsando en el botón "*Organizar incursión*" y seleccionando la hora adecuada según las normas de siempre (20 minutos tras la eclosión).
 ![anuncio-1.png](images/anuncio-1.png) ![anuncio-2.png](images/anuncio-2.png) ![anuncio-3.png](images/anuncio-3.png)
 
 ### Con comando
@@ -36,7 +38,7 @@ Este método es más "artesanal" pero es más difícil cometer errores una vez s
 /raid POKEMON HORA GIMNASIO
 ~~~
 - **POKEMON**: El nombre del jefe de incursión o "*n5*" solo si hay varios legendarios.
-- **HORA**: La hora a la que se ha quedado para la batalla.
+- **HORA**: La hora a la que se ha quedado para la batalla (20 minutos después de la eclosión del huevo).
 - **GIMNASIO**: El nombre del gym.
 Ejemplo de un huevo de Lugia que abre a las 20:14 en el gym Fuente Los Patos:
 ~~~
