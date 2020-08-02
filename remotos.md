@@ -1,6 +1,6 @@
 ---
 title: ¿Cómo hacer raids con remotos?
-subtitle: Guía para remotos y presenciales.
+description: Guía para remotos y presenciales.
 ---
 
 Los pases remotos han llegado al juego para quedarse, lo que supone algunos cambios en la forma de hacer raids que deben tenerse muy en cuenta por ambos lados, tanto presenciales como remotos. Todos estamos en el mismo juego y debemos respetarnos todos. Por lo que hay que aprender a gestionar raids en las que hay tanto remotos como gente presencial en el propio gym.
