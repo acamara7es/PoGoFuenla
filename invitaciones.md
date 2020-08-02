@@ -2,7 +2,7 @@
 title: ¿Cómo invitar y pedir invitaciones a raids?
 ---
 
-Las invitaciones son una buena forma de hacer amigos en el juego y ayudar a otros a hacer incursiones. El bot [@detectivepikachubot](https://t.me/detectivepikachubot) ha incluido un sistema para manejar esta circunstancia. Primero es importante recordar primero las limitaciones que tienen las invitaciones en el juego: 
+Las invitaciones son una buena forma de hacer amigos en el juego y ayudar a otros a hacer incursiones. El bot [@detectivepikachubot](https://t.me/detectivepikachubot) ha incluido un sistema para manejar esta circunstancia. Sin embargo antes de nada es importante recordar las limitaciones que tienen las invitaciones en el juego: 
 
 - Un entrenador puede enviar hasta 5 invitaciones a una incursión.
 - Alguien que ha sido invitado a una incursión no puede invitar a nadie a esa incursión.
@@ -26,7 +26,7 @@ En cualquiera de los casos el bot te confirmará que lo ha recibido. Recuerda ac
 **IMPORTANTE:** Una vez establecido el código deja pasar unos minutos antes de pedir invitaciones ya que el bot tarda un poco en procesar que ya has añadido el código de amigo y te dirá que debes añadirlo aunque acabes de hacerlo.
 
 # Pedir invitaciones.
-Para pedir que alguien te invite a una incursión es tan sencillo como pulsar el nuevo botón de "`👨‍❤️‍👨 Invitadme`" (no al de "*Voy*"), desde entonces entrarás en un listado que aparecerá en la raid hasta que alguien quiera invitarte.
+Para pedir que alguien te invite a una incursión es tan sencillo como pulsar el nuevo botón de "`🙏 Invitadme`" (no al de "*Voy*"), desde entonces entrarás en un listado que aparecerá en la raid hasta que alguien quiera invitarte.
 
 ![invitadme.png](images/invitadme.png)
 
