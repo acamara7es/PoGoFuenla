@@ -64,8 +64,10 @@ A cada uno de los entrenadores que invites les llegará por privado la confirmac
 # Preguntas Frecuentes.
 
 - **Tengo más de una cuenta y el bot no me deja poner más códigos de amigo, ¿Cómo hago para que me inviten a las otras cuentas?**
+
 Una vez que alguien haya aceptado invitarte a la incursión habla con él/ella por privado y pregunta si podría invitar también a las otras. Solo si te contesta que sí y una vez que os tengáis de amigos en el juego deberás borrarte de la incursión pulsando en "*No voy*" y apuntarte de nuevo como remoto con los +1 correspondientes. 
 
 - **Estoy de vacaciones en la otra punta del mundo pero quiero que me inviten a una raid aquí, ¿hay algún problema?**
+
 No hay limitaciones de distancia en las invitaciones así que mientras sigas lo que se ha explicado en esta guía el único "problema" será la diferencia horaria.
 
