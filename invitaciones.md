@@ -11,6 +11,7 @@ Las invitaciones son una buena forma de hacer amigos en el juego y ayudar a otro
 - Los invitados no necesitan código de acceso al grupo privado, entran directamente a la sala con quien les ha invitado (siempre que haya sitio).
 
 Además hay que tener en cuenta que este sistema está previsto para usarse tal y como funciona el bot, es decir 1 cuenta por persona, por tanto si quieres que te inviten a más de una cuenta es importante que leas al final la sección de *Preguntas Frecuentes*.
+
 **IMPORTANTE:** Las invitaciones deben usarse de forma correcta. Nunca invites a gente que no esté apuntada en la incursión, podrías dejar a alguien fuera (incluso a quien has invitado tú). Si se descubre que alguien invita a gente sin apuntar en la raid podrá ser expulsado del grupo de forma permanente.
 
 # Añadir el código de amigo.
