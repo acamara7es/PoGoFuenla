@@ -18,7 +18,8 @@ title: Guía rápida para usar a Serbal
     2. [Tablas integradas](#tablas-integradas)  
     3. [Quién es… y Está aquí…](#quién-es-y-está-aquí)  
     4. [Buscador de anclado](#buscador-de-anclado)
-    
+
+<div id="toc"></div>
     
 # Registro
 ### Primer Registro
