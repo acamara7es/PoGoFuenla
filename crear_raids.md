@@ -11,7 +11,7 @@ title: GUÍA PARA CREAR RAIDS
 # Requisitos para crear una raid
 Cualquiera que esté registrado con el bot Detective Pikachu puede organizar una raid siempre que siga las siguientes indicaciones:
 
-1. En este grupo **solo se permiten raids de niveles 4 y 5**. Para las de nivel inferior hay otro grupo al que puedes acceder desde el grupo de charla.
+1. En este grupo **solo se permiten raids de niveles 5 y Mega**. Para las de nivel inferior hay otro grupo al que puedes acceder desde el grupo de charla.
 
 2. Muy importante, **revisa que no se haya creado ya la raid que quieres poner**, es importante evitar que las raids se repitan para mantener el orden y saber realmente cuántos hay apuntados en cada raid.
 
