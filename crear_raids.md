@@ -17,9 +17,7 @@ Cualquiera que esté registrado con el bot Detective Pikachu puede organizar una
 
 3. La hora a la que se organice la raid debe ser siempre **20 minutos después de la eclosión del huevo**. No hay que redondear, si el huevo abre a las 12:02 la raid debe ponerse a las 12:22.
 
-4. **Para las incursiones de nivel 4**, es necesario saber cuál es el jefe de incursión antes de crear la raid, por lo que **hay que esperar a que se abra el huevo**. Sin embargo, se puede avisar antes por el grupo de charla por si hay alguien interesado.
-
-5. **Para las incursiones de nivel 5**, se podrá crear la raid antes de que se abra el huevo teniendo en cuenta que **si hay 2 o más legendarios disponibles**, al usar el comando hay que poner como pokemon "*n5*" y cuando se abra el huevo editar la raid para poner el pokemon (ver apartado [Modificar una raid](#modificar-una-raid)).
+5. Se podrá crear la raid antes de que se abra el huevo teniendo en cuenta que **si hay 2 o más legendarios o Mega Evoluciones disponibles**, al usar el comando hay que poner como pokemon "*n5*" o *mega* y cuando se abra el huevo editar la raid para poner el pokemon (ver apartado [Modificar una raid](#modificar-una-raid)).
 
 # Métodos para crear una raid
 Estos son los métodos disponibles para crear raids en este grupo, si tienes cualquier duda o problema al crear la raid pregunta en el grupo de charla y alguien te ayudará, pero no dejes la raid con errores ya que puedes perjudicar a otros jugadores.
@@ -37,7 +35,7 @@ Este método es más "artesanal" pero es más difícil cometer errores una vez s
 ~~~
 /raid POKEMON HORA GIMNASIO
 ~~~
-- **POKEMON**: El nombre del jefe de incursión o "*n5*" solo si hay varios legendarios.
+- **POKEMON**: El nombre del jefe de incursión o "*n5*" (solo si hay varios legendarios) o "*mega*" (solo si hay varias Mega Evoluciones).
 - **HORA**: La hora a la que se ha quedado para la batalla (20 minutos después de la eclosión del huevo).
 - **GIMNASIO**: El nombre del gym.
 Ejemplo de un huevo de Lugia que abre a las 20:14 en el gym Fuente Los Patos:
@@ -47,9 +45,9 @@ Ejemplo de un huevo de Lugia que abre a las 20:14 en el gym Fuente Los Patos:
 
 # Modificar una raid
 ### Ediciones
-Ya sea por un error al crearla o porque haya varios legendarios disponibles, en ocasiones es necesario editar algún dato de las raids. Sin embargo, solo pueden hacerlo el creador de la raid y los administradores. Si no es tu caso y ves que hay algo mal en alguna raid avisa en el grupo de charla indicando el error y aportando una captura de pantalla a ser posible para corregirlo cuanto antes.
+Ya sea por un error al crearla o porque haya varios legendarios o Mega Evoluciones disponibles, en ocasiones es necesario editar algún dato de las raids. Sin embargo, solo pueden hacerlo el creador de la raid y los administradores. Si no es tu caso y ves que hay algo mal en alguna raid avisa en el grupo de charla indicando el error y aportando una captura de pantalla a ser posible para corregirlo cuanto antes.
 
-Para editar una raid solo hay que *responder* al mensaje de Pikachu de la raid en el grupo y usar el comando correspondiente a cada dato. Para cambiar el pokemon o la hora de ataque no es necesario usar comando, basta con poner simplemente el dato corregido, pero para el resto de casos sí (Pikachu te envía por privado una lista con todos los comandos).
+Para editar una raid solo hay que *responder* al mensaje de Pikachu de la raid en el grupo y usar el comando correspondiente a cada dato. Para cambiar el pokemon o la hora de ataque no es necesario usar comando, basta con poner simplemente el dato corregido, pero para el resto de casos sí (Pikachu te envía por privado una lista con todos los comandos al crear la raid).
 
 ### Responder a un mensaje
 Para poder responder a un mensaje hay 2 formas de hacerlo:
