@@ -7,24 +7,24 @@ Este grupo es única y exclusivamente para las incursiones.
 
 Los únicos mensajes permitidos son para preguntar quién falta o cuánto le queda a alguna persona rezagada o que no se ha confirmado en una raid en **UN SOLO MENSAJE**. Para hablar y preguntar está el grupo de charla.
 
-Si no conoces la ubicación de un gimnasio pulsa en el enlace del nombre del gym en la raid y pikachu te la mandará por privado si estás validado, si no pregunta en el grupo de charla.
+Si no conoces la ubicación de un gimnasio pulsa en el enlace del nombre del gym en la raid y pikachu te la mandará por privado si estás registrado, si no pregunta en el grupo de charla.
 
 ## 2. Nada de multimedia.
 Para que los mensajes de las incursiones permanezcan visibles no se permite el envío de ningún tipo de contenido multimedia (audios, fotos, vídeos, stickers, etc) excepto capturas de pantalla de huevos de incursión con el objetivo de [crear la raid](https://acamara7es.github.io/PoGoFuenla/crear_raids#con-captura-de-pantalla) correspondiente, que serán borradas automáticamente por el bot Detective Pikachu.  
 
 ## 3. ✅ Validación requerida.
-Para poder crear raids o apuntarte en las que estén creadas en este grupo, debes estar validado con @detectivepikachubot. Para ello abre chat en privado con él y escribe `/register`, te indicará lo que debes hacer.
+Para poder crear raids o apuntarte en las que estén creadas en este grupo, debes estar registrado con @detectivepikachubot. Para ello abre chat en privado con él y escribe `/register`, te indicará lo que debes hacer.
 
 Una vez registrado, para actualizar el nivel solo tienes que mandarle al bot una captura de tu perfil por privado (da igual el compañero y el nombre que tenga).
 
 A final de mes se hará limpieza de los usuarios no validados, si no lo estás no tienes gran cosa que hacer por aquí. 
 
-**Si un usuario es expulsado por este motivo 3 veces será baneado de forma definitiva del grupo hasta que demuestre que se ha validado con el bot correctamente.**
+**Si un usuario es expulsado por este motivo 3 veces será baneado de forma definitiva del grupo hasta que demuestre que se ha registrado con el bot correctamente.**
 
 ## 4. 🖐 Apuntarse a una raid
 Si te apuntas a una Raid, adquieres un compromiso con sus asistentes. Por lo tanto si te apuntas, es porque vas. Trata de ser consecuente y solidario sobre todo con las personas que se desplazan desde lejos para hacerla. 
 
-Si por el motivo que fuera te vieras en la necesidad de desapuntarte de una Raid, hazlo con un tiempo suficientemente prudencial para que el resto de asistentes pueda percatarse con antelación y comunícalo por el [grupo general](https://t.me/pokemonfuenla), para que en caso de ser pocos o justos asistentes, no se den el viaje en balde o se queden esperando a alguien que nunca llega.
+Si por el motivo que fuera te vieras en la necesidad de desapuntarte de una Raid, hazlo con tiempo suficiente para que el resto de asistentes pueda percatarse con antelación y comunícalo por el grupo de charla, para que en caso de ser pocos no se den el viaje en balde o se queden esperando a alguien que nunca llega.
 
 Cuando coincidan 2 o más jefes de incursión de nivel 5 debes tener en cuenta que si te apuntas antes de que se sepa el pokemon que es (cuando en la raid pone "nivel 5") es porque vas a ir independientemente de lo que salga. Si solo te interesa uno de los jefes disponibles no te apuntes hasta que no se indique qué ha salido.
 
