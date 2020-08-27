@@ -1,5 +1,5 @@
 ---
-title: GUÍA PARA CREAR RAIDS
+title: Guía para organizar incursiones
 ---
 1. [Requisitos para crear una raid](#requisitos-para-crear-una-raid)
 2. [Métodos para crear una raid](#métodos-para-crear-una-raid)
