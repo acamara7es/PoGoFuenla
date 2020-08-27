@@ -1,62 +1,83 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-	<head>
-	  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<html lang="{{site.lang | default:'en-US'}}">
+  <head>
+    <link
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
     <style type="text/css">
       .responsiveCal {
-        position: relative; 
-        padding-bottom: 75%; 
-        height: 0; 
+        position: relative;
+        padding-bottom: 75%;
+        height: 0;
       }
       .responsiveCal iframe {
-        position: absolute; 
-        top:0; 
-        left: 0; 
-        width: 100%; 
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
       }
       img[alt*="anuncio"],
-      img[alt*="reply"]{
-        max-height: 350px
+      img[alt*="reply"] {
+        max-height: 350px;
       }
       img[alt*="anuncio"],
-      img[alt*="huevo"]{
-		    display: block;
-   		  	margin-left: auto;
-    	 	margin-right: auto;
+      img[alt*="huevo"] {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
       }
-		a > img.rounded-circle.mx-auto.d-block{
-				margin-top: 20px;
-				margin-bottom: 5px;
-			}
-		h3{
-			font-size: 1.5rem;
-		}
-      
+      a > img.rounded-circle.mx-auto.d-block {
+        margin-top: 20px;
+        margin-bottom: 5px;
+      }
+      h2 {
+        font-size: 1.5rem;
+      }
     </style>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+      integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg=="
+      crossorigin="anonymous"
+    ></script>
     <script src="scripts/toc.js"></script>
-	  {% if site.google_analytics %}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
-      </script>
-    {% endif %}
-
-{% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% if site.google_analytics %}
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "{{ site.google_analytics }}");
+    </script>
+    {% endif %} {% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#157878" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"
+    />
   </head>
   <body>
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.github.repository_name }}</h1>
-      <h3 class="project-tagline">{{ page.description | default: site.github.project_tagline }}</h3>
+      <h1 class="project-name">
+        {{ page.title | default: site.github.repository_name }}
+      </h1>
+      <h3 class="project-tagline">
+        {{ page.description | default: site.github.project_tagline }}
+      </h3>
       {% if site.github.is_project_page %}
-        <!--<a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>-->
+      <!--<a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>-->
       {% endif %}
     </header>
 
@@ -65,14 +86,24 @@
 
       <footer class="site-footer">
         {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+        <span class="site-footer-owner"
+          ><a href="{{ site.github.repository_url }}"
+            >{{ site.github.repository_name }}</a
+          >
+          is maintained by
+          <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a
+          >.</span
+        >
         {% endif %}
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+        <span class="site-footer-credits"
+          >This page was generated by
+          <a href="https://pages.github.com">GitHub Pages</a>.</span
+        >
       </footer>
     </main>
     <script type="text/javascript">
-      $(document).ready(function() {
-        $('#toc').toc({headers:'h1, h3', list: 'index'});
+      $(document).ready(function () {
+        $("#toc").toc({ list: "index" });
       });
     </script>
   </body>
