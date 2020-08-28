@@ -30,6 +30,8 @@ Si te apuntas a una Raid, adquieres un compromiso con sus asistentes. Por lo tan
 
 Dadas las limitaciones que impone el juego con respecto a la cantidad de remotos en cada raid es muy importante que te apuntes correctamente a la incursión, si vas a hacerla presencial pulsa solo en "_Voy_" y si vas a utilizar pase remoto pulsa también en el botón de "_📡Remoto_". **Apuntarse como remoto si vas a hacerla como presencial o viceversa será motivo de sanción**
 
+Ten en cuenta que un remoto no puede poner "+1" presenciales ni un presencial poner "+1" remotos. En caso de necesitarlo pide a otro participante que ponga tus "+1" de forma correcta. Esto es importante para poder aprovechar el límite del juego de 10 remotos por sala y también que nadie se quede fuera por que haya más remotos de los previstos.
+
 Si por el motivo que fuera te vieras en la necesidad de desapuntarte de una Raid, hazlo con tiempo suficiente para que el resto de asistentes pueda percatarse con antelación y comunícalo por el grupo de charla, para que en caso de ser pocos no se den el viaje en balde o se queden esperando a alguien que nunca llega.
 
 Cuando coincidan 2 o más jefes de incursión de nivel 5 debes tener en cuenta que si te apuntas antes de que se sepa el pokemon que es (cuando en la raid pone "nivel 5") es porque vas a ir independientemente de lo que salga. Si solo te interesa uno de los jefes disponibles no te apuntes hasta que no se indique qué ha salido.
@@ -37,6 +39,8 @@ Cuando coincidan 2 o más jefes de incursión de nivel 5 debes tener en cuenta q
 🚫 **Si se observa que hay gente que se ha apuntado antes de la apertura que se borra cuando se sabe el pokemon que ha salido habrá sanciones.**
 
 Cuidado con apuntarse sin querer. Vigila que no te apuntes a una incursión mientras navegas por el grupo. De la misma manera, no te apuntes de forma presencial a raids cercanas en hora si son en lugares muy distantes porque lo más seguro es que no llegues a tiempo. No hagas esperar a la gente más de la cuenta.
+
+En caso de que no te puedas apuntar a la raid por haber alcanzado el límite de remotos o de participantes totales puedes crear una nueva raid para la misma incursión para 10 minutos después de la original.
 
 ## 5. ⏰ Puntualidad y tiempo de cortesía
 
